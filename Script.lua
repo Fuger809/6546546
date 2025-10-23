@@ -1,5 +1,5 @@
 return {
 "593828B8-DC42-4B1B-9A7C-52E77AA842E2",
-"Hitler1488"
+"Hitler1488",
 "ed72781f-9d67-4cc0-a4f9-83b2d322e76d",
 }
